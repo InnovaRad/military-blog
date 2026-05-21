@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- 軍綠底色 -->
+  <rect width="32" height="32" rx="6" fill="#0d1a0d"/>
+
+  <!-- 水面線（深綠暗示海洋） -->
+  <ellipse cx="16" cy="23.5" rx="14" ry="1.8" fill="#1a3a1a"/>
+
+  <!-- 主艦體 -->
+  <rect x="3" y="17" width="23" height="8" rx="4" fill="#c8981a"/>
+
+  <!-- 艦首圓弧（前端收尖） -->
+  <ellipse cx="26.5" cy="21" rx="3.5" ry="4" fill="#c8981a"/>
+
+  <!-- 艦體高光（質感） -->
+  <rect x="4" y="17.5" width="22" height="2" rx="1" fill="#e0b030" opacity="0.28"/>
+
+  <!-- 指揮台圍（sail / conning tower） -->
+  <rect x="11" y="9" width="8" height="9" rx="2" fill="#d4a520"/>
+  <rect x="11.5" y="9.5" width="2.5" height="8" rx="1" fill="#f0c840" opacity="0.22"/>
+
+  <!-- 潛望鏡縱管 -->
+  <rect x="14.5" y="3" width="2" height="7" rx="1" fill="#b8860b"/>
+
+  <!-- 潛望鏡橫頭 -->
+  <rect x="11.5" y="3" width="7" height="2" rx="1" fill="#b8860b"/>
+  <!-- 潛望鏡鏡頭 -->
+  <circle cx="11.8" cy="4" r="1.1" fill="#4a7c42"/>
+  <circle cx="11.8" cy="4" r="0.5" fill="#7ab872" opacity="0.7"/>
+
+  <!-- 艦尾螺旋槳暗示 -->
+  <ellipse cx="4.2" cy="20.5" rx="1.2" ry="2.8" fill="#8a6005" opacity="0.75"/>
+  <ellipse cx="4.2" cy="21" rx="0.5" ry="1.2" fill="#0d1a0d" opacity="0.4"/>
+</svg>
